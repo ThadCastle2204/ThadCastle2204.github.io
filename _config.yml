@@ -7,6 +7,8 @@ theme: minima
 markdown: kramdown
 
 # Jekyll settings
+future: true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
