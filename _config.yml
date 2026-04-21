@@ -1,0 +1,23 @@
+title: ThadCastle
+description: A personal blog
+url: "https://ThadCastle2204.github.io"
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# Jekyll settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalinks
+permalink: /:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .bundle
