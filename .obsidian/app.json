@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_notes",
+  "attachmentFolderPath": "_notes/attachments",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "_site/",
+    "_posts/obsidian/",
+    "assets/notes/",
+    "vendor/"
+  ]
+}

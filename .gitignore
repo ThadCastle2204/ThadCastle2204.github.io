@@ -5,3 +5,12 @@ _site/
 vendor/
 .bundle/
 Gemfile.lock
+
+# Generated from _notes/ by scripts/obsidian_to_jekyll.py at build time
+_posts/obsidian/
+assets/notes/
+
+# Per-device Obsidian state
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
